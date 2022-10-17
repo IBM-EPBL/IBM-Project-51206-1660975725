@@ -45,17 +45,18 @@ This Application has been developed to help the customer in processing their com
 
 # IDEATION PHASE
 
+-  Abstract
 -  Literature Survey
 -  Problem Statement
 -  Empathy Map
 -  Brainstorm
 
-# DESIGN PHASE 01
+# PROJECT DESIGN PHASE 01
 -  Proposed Solution
 -  Problem-Solution Fit
 -  Solution Architecture
 
-# DESIGN PHASE 02 
+# PROJECT DESIGN PHASE 02 
 -  Solution Requirements
 -  Customer Journey Map
 -  Data Flow Diagrams
