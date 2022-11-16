@@ -29,8 +29,6 @@ This Application has been developed to help the customer in processing their com
 
  <hr>
 
-<hr>
-
 ## SKILLS REQUIRED
 - IBM CLOUD
 - HTML
