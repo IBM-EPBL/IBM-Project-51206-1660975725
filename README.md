@@ -12,6 +12,8 @@
 
 [PROJECT VIDEO LINK](https://www.kapwing.com/videos/6377bb91fd8cac022fc617d6)
 
+[PROJECT DEMO LINK](https://169.51.207.4:30458/)
+
 <hr>
 
 # PROJECT DESCRIPTION
